@@ -6,9 +6,4 @@
   padding: 50px;
   width: 300px;
   background-color: lightblue;
-
-  /* optional: make text readable */
-  font-family: Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
 }
